@@ -57,7 +57,9 @@
     color: white;
     border: none;
     outline: none;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border-radius: 30px;
     margin-left: -20px;
 }
